@@ -1,0 +1,12 @@
+Round 1
+Player deck: J♦ 9♦ 10♣ K♣ Q♠
+Dealer card: 5♠
+Player played: 9♠
+Points earned: 1
+
+Round 2
+Player deck: J♦ 9♦ 10♣ Q♠ Q❤
+Dealer card: J♠
+Player played: K♣
+Points earned: 0
+

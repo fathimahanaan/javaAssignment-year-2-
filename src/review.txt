@@ -1,0 +1,13 @@
+GAME REPLAY
+--------------------
+Round 1
+Player deck: 8♦ 8♠ K♣ 9♠ J♣
+Dealer card: 5♦
+Player played: 5♠
+Points earned: 1
+
+Round 2
+Player deck: 8♦ 8♠ K♣ 9♠ 9♦
+Dealer card: 9❤
+Player played: J♣
+Points earned: 0
